@@ -4,17 +4,12 @@
 
 기간 : 2024.09.23 ~ 2024.10.29 (5주)
 인원 : 5명
-- DB 관리, 상품 추천 기능, Fast API 알고리즘 적용 기능 구현 1명
-- UI/UX 구상, ppt 작성 1명
-- 회원가입 및 로그인, 마이페이지 기능, 상품 리스트 기능 구현 1명
-- 메인 페이지, 검색, 상품 리스트 기능 구현 1명
-- ERD 설계, 게시판 기능, 상품 통계 기능, Open API 트렌드 뉴스 조회 기능 구현 1명
 
-  
-1. 주제 
-바이어 맞춤형 상품 추천 알고리즘을 적용 B2B 거래 플랫폼 “TK FOREST” 개발
+1. 주제
+바이어 맞춤형 상품 추천 알고리즘사 적용 B2B 거래 플랫폼 “TK FOREST” 개발
+TK FOREST : 숲이 다양한 종과 자원이 균형을 이루며 번성하듯, 모든 규모의 기업들이 협력하고 교류하며 함께 번영할 수 있는 시장을 지향하는 B2B 거래 플랫폼
 
-2. 기획 배경 및 목표
+3. 기획 배경 및 목표
  저희의 프로젝트는 한국 제품의 글로벌 시장 진출을 확대하고, 바이어의 구매 경험을 개선하기 위한 B2B거래 플랫폼을 개발하는 목적으로 기획되었습니다.
 해외 바이어에게는 관심사를 반영한 맞춤형 상품 추천 서비스, 셀러에게는 트렌드 뉴스 서비스를 제공함으로써 셀러와 바이어 간의 매칭 효율성을 극대화하고, 차별화된 B2B 거래 플랫폼을 구축하여 아래와 같은 목표를 달성하고자 합니다.
 
@@ -31,10 +26,10 @@
   IDE : SpringToolSuite 4.24 released, Eclipse, Visual Studio Code, DBeaver
   Configuration : Github [https://github.com/ParkByeongWoo/tkForest.git]
   Language : Java 17, java script, chart.js, Python
-  Library : Lombok, MySQL Driver, Spring Boot DevTools, Spring Data JPA, Spring Web, Thymeleaf,   Validation
+  Library : Lombok, MySQL Driver, Spring Boot DevTools, Spring Data JPA, Spring Web, Thymeleaf, Validation
   DataBase : MySQL
   API : Open API, Fast API
-  Tool : Notion [협업], SourceTree [협업], ERD-Cloud [ERD 설계], Canva [화면 구상], Figma [화면 설계 구체화], HTML, CSS, SCSS [화면 구성]
+  Tool : Notion (협업), SourceTree (협업), ERD-Cloud (ERD 설계), Canva (화면 구상), Figma (UI 설계), HTML, CSS, SCS
 
   3-2) 사용 기술
   백엔드: Spring Boot, Spring Data JPA, MySQL 
