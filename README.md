@@ -1,45 +1,4 @@
 # TK Forest
-2024년 KITA 디지털 마스터 4기 3조 2차 최종 프로젝트
-(한국 무역협회 기업 연계 프로젝트)
-
-기간 : 2024.09.23 ~ 2024.10.29 (5주)
-인원 : 5명
-
-1. 주제
-바이어 맞춤형 상품 추천 알고리즘사 적용 B2B 거래 플랫폼 “TK FOREST” 개발
-TK FOREST : 숲이 다양한 종과 자원이 균형을 이루며 번성하듯, 모든 규모의 기업들이 협력하고 교류하며 함께 번영할 수 있는 시장을 지향하는 B2B 거래 플랫폼
-
-3. 기획 배경 및 목표
- 저희의 프로젝트는 한국 제품의 글로벌 시장 진출을 확대하고, 바이어의 구매 경험을 개선하기 위한 B2B거래 플랫폼을 개발하는 목적으로 기획되었습니다.
-해외 바이어에게는 관심사를 반영한 맞춤형 상품 추천 서비스, 셀러에게는 트렌드 뉴스 서비스를 제공함으로써 셀러와 바이어 간의 매칭 효율성을 극대화하고, 차별화된 B2B 거래 플랫폼을 구축하여 아래와 같은 목표를 달성하고자 합니다.
-
-  2-1) 기존 무역협회 대표 무역거래 B2B 거래 플랫폼 'TradeKorea' 사이트의 사용 편의성을 높여 B2B 거래 플랫폼으로서의 역할을 강화
-  2-2) 타 사이트와의 정보 공유를 통한 추가 방문자 유도와 사이트의 확장성 강화
-  2-3) 바이어와 셀러 간의 최적화된 매칭 서비스를 통한 사이트 활성화
-  2-4) 정밀한 상품 추천을 통한 플랫폼 방문자 수와 사용 효율성을 증대
-  2-5) 영세 기업의 상품 노출 기회를 확대
-
-3. 개발 환경 및 사용 기술
-   
-  3-1) 개발 환경
-  OS : Windows 
-  IDE : SpringToolSuite 4.24 released, Eclipse, Visual Studio Code, DBeaver
-  Configuration : Github [https://github.com/ParkByeongWoo/tkForest.git]
-  Language : Java 17, java script, chart.js, Python
-  Library : Lombok, MySQL Driver, Spring Boot DevTools, Spring Data JPA, Spring Web, Thymeleaf, Validation
-  DataBase : MySQL
-  API : Open API, Fast API
-  Tool : Notion (협업), SourceTree (협업), ERD-Cloud (ERD 설계), Canva (화면 구상), Figma (UI 설계), HTML, CSS, SCS
-
-  3-2) 사용 기술
-  백엔드: Spring Boot, Spring Data JPA, MySQL 
-  프론트엔드: HTML, CSS, SCSS, Thymeleaf, JavaScript, chart.js
-  데이터베이스 관리: Google Cloud
-  API 및 통신: RESTful API, Open API, Fast API
-  협업 및 개발 도구: Git, GitHub, SourceTree, Notion, ERD-Cloud, Figma
-  기타 라이브러리 및 도구: Lombok, Spring Boot DevTools, Validation
-
-  ----------------------------------------------------------------
   <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
@@ -48,9 +7,6 @@ TK FOREST : 숲이 다양한 종과 자원이 균형을 이루며 번성하듯, 
 
 <!-- [![Contributors][contributors-shield]][contributors-url] -->
 
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -58,11 +14,12 @@ TK FOREST : 숲이 다양한 종과 자원이 균형을 이루며 번성하듯, 
     <img src="images/TKFOREST_mini logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">TK FOREST</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
+    숲이 다양한 종과 자원이 균형을 이루며 번성하듯,<br>
+   모든 규모의 기업들이 협력하고 교류하며 함께 성장할 수 있는 시장을 지향하는 B2B 거래 플랫폼
+    <!-- <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -70,7 +27,7 @@ TK FOREST : 숲이 다양한 종과 자원이 균형을 이루며 번성하듯, 
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>-->
   </p>
 </div>
 
@@ -109,37 +66,57 @@ TK FOREST : 숲이 다양한 종과 자원이 균형을 이루며 번성하듯, 
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+2024년 KITA 디지털 마스터 4기 3조 2차 최종 프로젝트  
+(한국 무역협회 기업 연계 프로젝트)
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+- 기간: 2024.09.23 ~ 2024.10.29 (5주)  
+- 팀원 구성 및 역할
+  
+  - 팀원 1 : DB 관리, 상품 추천 기능, Fast API 알고리즘 적용 기능 구현  
+  - 팀원 2 : UI/UX 구상, 발표 자료(PPT) 작성  
+  - 팀원 3 : 회원가입 및 로그인, 마이페이지, 상품 리스트 기능 구현  
+  - 팀원 4 : 메인 페이지, 검색 기능, 상품 리스트 기능 구현  
+  - 팀원 5 : ERD 설계, 게시판 기능, 상품 통계 기능, Open API 트렌드 뉴스 조회 기능 구현  
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+## 1. 주제  
+**바이어 맞춤형 상품 추천 알고리즘을 적용한 B2B 거래 플랫폼 'TK FOREST' 개발**  
 
-Use the `BLANK_README.md` to get started.
+---
 
+## 2. 기획 배경 및 목표  
+본 프로젝트는 한국 제품의 글로벌 시장 진출 확대와 바이어의 구매 경험을 개선하기 위한 **B2B 거래 플랫폼 개발**을 목적으로 기획되었습니다.  
+해외 바이어에게는 **관심사를 반영한 맞춤형 상품 추천 서비스**를, 셀러에게는 **트렌드 뉴스 서비스**를 제공하여 **효율적인 매칭과 차별화된 B2B 거래 플랫폼 구축**을 목표로 합니다.
+
+### 2-1) 주요 목표
+- 기존 무역협회 대표 플랫폼 **TradeKorea**의 사용 편의성 개선 및 역할 강화  
+- 타 사이트와의 정보 공유로 추가 방문자 유도 및 사이트 확장성 강화  
+- 바이어와 셀러 간 **최적화된 매칭 서비스** 제공을 통한 사이트 활성화  
+- 정밀한 상품 추천을 통한 방문자 수 및 사용 효율성 증대  
+- **영세 기업의 상품 노출 기회 확대**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---
 
+## 📚 STACKS
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+- **Languages** <br>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass3&logoColor=white"><br>
+- **Frameworks** <br>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><br>
+- **Libraries** <br>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Lombok-3C8B7B?style=for-the-badge&logo=Lombok&logoColor=white"> <img src="https://img.shields.io/badge/Thymeleaf-005F0A?style=for-the-badge&logo=Thymeleaf&logoColor=white"> <img src="https://img.shields.io/badge/Validation-DA5722?style=for-the-badge&logo=Java&logoColor=white"><br>
+- **Database & Tools** <br>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=DBeaver&logoColor=white"><br>
+- **Version Control** <br>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+- **APIs** <br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=OpenAPI&logoColor=white">
+- **Collaboration & Design** <br>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=SourceTree&logoColor=white"> <img src="https://img.shields.io/badge/ERD--Cloud-2A2A2A?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+- **Development Environment** <br>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -304,3 +281,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 
+_
