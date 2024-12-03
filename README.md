@@ -68,7 +68,7 @@
 ## 📚 Stacks
 
 - **Languages** <br>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass3&logoColor=white"><br>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass3&logoColor=white"><br>
 - **Frameworks** <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><br>
 - **Libraries** <br>
@@ -78,7 +78,7 @@
 - **Version Control** <br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 - **APIs** <br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=OpenAPI&logoColor=white">
+<img src="https://img.shields.io/badge/RESTfulAPI-88CE02?style=for-the-badge&logo=RESTfulAPI&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=OpenAPI&logoColor=white">
 - **Collaboration & Design** <br>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=SourceTree&logoColor=white"> <img src="https://img.shields.io/badge/ERD--Cloud-2A2A2A?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 - **Development Environment** <br>
@@ -99,7 +99,7 @@
 
 E-mail : sa99126@naver.com
 
-Portfolio Link: <!-- [https://www.notion.so/13db4f9a8ef980328958fa9f1930943e](https://www.notion.so/13db4f9a8ef980328958fa9f1930943e) -->
+<!-- Portfolio Link:  [https://www.notion.so/13db4f9a8ef980328958fa9f1930943e](https://www.notion.so/13db4f9a8ef980328958fa9f1930943e) -->
 
 Project Link: [https://github.com/ParkByeongWoo/tkForest](https://github.com/ParkByeongWoo/tkForest)
 
